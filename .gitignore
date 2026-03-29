@@ -1,3 +1,4 @@
 #ignore the readme-local.text "/" on the root directory.
 /Readme-local.txt
 .vs
+/node_modules
